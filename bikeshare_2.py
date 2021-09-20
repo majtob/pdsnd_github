@@ -11,6 +11,7 @@ def get_filters():
     """
     test= hello there
     test3 = hello in the 3rd branch
+    test5 = tbh i don't know what to write
     Asks user to specify a city, month, and day to analyze.
 
     Returns:
@@ -55,7 +56,7 @@ def load_data(city, month, day):
     """
     Loads data for the specified city and filters by month and day if applicable.
     test 2 = i said hello
-    test4 = hello again in the 3rd branch 
+    test4 = hello again in the 3rd branch
     Args:
         (str) city - name of the city to analyze
         (str) month - name of the month to filter by, or "all" to apply no month filter
