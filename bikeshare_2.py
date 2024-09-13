@@ -9,6 +9,9 @@ CITY_DATA = {'chicago': 'chicago.csv',
 
 def get_filters():
     """
+    test= hello there
+    test3 = hello in the 3rd branch
+    test5 = tbh i don't know what to write
     Asks user to specify a city, month, and day to analyze.
 
     Returns:
